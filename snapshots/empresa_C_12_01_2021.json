@@ -1,0 +1,211 @@
+{
+  "institution_id": "cl_banco_estado",
+  "holder_type": "business",
+  "account_number": "882471942",
+  "username": "993223437",
+  "currency": "clp",
+  "fetched_at": "2021-01-12T11:27:42.248Z",
+  "movements": [
+    {
+      "description": "TEF DE ARIA STARK",
+      "amount": 1000,
+      "balance": 5000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:06:55+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "111111111",
+          "sender_account": "1111111111",
+          "sender_bank": "cl_banco_santander",
+          "sender_bank_raw_name": "BANCO SANTANDER",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "TEF DE ARIA STARK",
+      "amount": 1000,
+      "balance": 6000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:06:55+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "111111111",
+          "sender_account": "1111111111",
+          "sender_bank": "cl_banco_santander",
+          "sender_bank_raw_name": "BANCO SANTANDER",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "TEF DE ARIA STARK",
+      "amount": 5000,
+      "balance": 11000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:06:55+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "111111111",
+          "sender_account": "1111111111",
+          "sender_bank": "cl_banco_santander",
+          "sender_bank_raw_name": "BANCO SANTANDER",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "ABONO EXTERNO",
+      "amount": 10500,
+      "balance": 21500,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:07:33+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {}
+    },
+    {
+      "description": "ABONO CASA STARK",
+      "amount": 5000,
+      "balance": 26500,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:08:55+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "222222222",
+          "sender_account": "22222222222",
+          "sender_bank": "cl_banco_estado",
+          "sender_bank_raw_name": "BANCO ESTADO",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "TEF DE DAENERYS",
+      "amount": 9000,
+      "balance": 35500,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T14:12:00+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "333333333",
+          "sender_account": "333333333333",
+          "sender_bank": "cl_banco_estado",
+          "sender_bank_raw_name": "BANCO ESTADO",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "TEF DESDE LANNISTER",
+      "amount": 1500,
+      "balance": 37000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-10T15:11:00+00:00",
+      "accountable_date": "2021-01-10T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "444444444",
+          "sender_account": "4444444444",
+          "sender_bank": "cl_banco_estado",
+          "sender_bank_raw_name": "BANCO ESTADO",
+          "sender_account_type": "Cuenta Corriente",
+          "comment": null,
+          "code": null
+      }
+    },
+    {
+      "description": "ABONO EXTERNO",
+      "amount": 3000,
+      "balance": 40000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:11:00+00:00",
+      "accountable_date": "2021-01-11T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {}
+    },
+    {
+      "description": "TRANSFERENCIA RECIBIDA",
+      "amount": 10000,
+      "balance": 50000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:11:00+00:00",
+      "accountable_date": "2021-01-15T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+        "sender_rut": "5555555555",
+        "sender_account": "555555555555",
+        "sender_bank": "cl_banco_bci",
+        "sender_bank_raw_name": "BANCO BCI",
+        "sender_account_type": "Cuenta Corriente",
+        "comment": null,
+        "code": null
+      }
+    },
+    {
+      "description": "TRANSFERENCIA RECIBIDA",
+      "amount": 6000,
+      "balance": 56000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:17:00+00:00",
+      "accountable_date": "2021-01-11T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+        "sender_rut": "5555555555",
+        "sender_account": "555555555555",
+        "sender_bank": "cl_banco_bci",
+        "sender_bank_raw_name": "BANCO BCI",
+        "sender_account_type": "Cuenta Corriente",
+        "comment": null,
+        "code": null
+      }
+    },
+    {
+      "description": "COBRO MANTECION EXTERNO",
+      "amount": 26000,
+      "balance": 30000,
+      "channel": null,
+      "type": "outbound",
+      "date": "2021-01-12T15:12:00+00:00",
+      "accountable_date": "2021-01-12T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {}
+    }
+  ],
+  "balance": {
+    "available": 30000,
+    "current": 30000,
+    "limit": 30000
+  }
+}

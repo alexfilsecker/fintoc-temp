@@ -1,0 +1,439 @@
+{
+    "institution_id": "cl_banco_estado",
+    "holder_type": "business",
+    "account_number": "1123889702",
+    "username": "191932657",
+    "currency": "clp",
+    "fetched_at": "2021-03-30T18:55:44.623Z",
+    "movements": [
+        {
+            "description": "TEF DE DE RUT 70101717-6",
+            "amount": 534501,
+            "balance": 5567445,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T18:10:37+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "18103747",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "701017176",
+                "sender_account": "21211212",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE LIGA DE LA JUSTICIA S.A.",
+            "amount": 766262,
+            "balance": 6333707,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T17:21:59+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "17215910",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "787788788",
+                "sender_account": "47511111",
+                "sender_bank": "cl_banco_security",
+                "sender_bank_raw_name": "BANCO SECURITY",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE DE RUT 73323326-3",
+            "amount": 157266,
+            "balance": 6490973,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T17:28:27+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "17282710",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "733233263",
+                "sender_account": "140000111",
+                "sender_bank": "cl_banco_security",
+                "sender_bank_raw_name": "BANCO SECURITY",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE HOUSE LANNISTER S.A.",
+            "amount": 277974,
+            "balance": 6768947,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T16:53:45+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "16534575",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "763333335",
+                "sender_account": "61959099",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE HOUSE STARK S.A.",
+            "amount": 356155,
+            "balance": 7125102,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T14:04:38+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "14043805",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "798248888",
+                "sender_account": "8267029999",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE AVENGERS SPA",
+            "amount": 349479,
+            "balance": 7474581,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-23T13:44:43+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "13444363",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "788945555",
+                "sender_account": "21131313",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE BATMAN",
+            "amount": 250000,
+            "balance": 7724581,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-23T15:36:51+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "15365100",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "107277788",
+                "sender_account": "69921666",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE EREN JAEGAR",
+            "amount": 2268289,
+            "balance": 9992870,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T08:43:34+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "08433434",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "760062333",
+                "sender_account": "411000100",
+                "sender_bank": "cl_banco_scotiabank",
+                "sender_bank_raw_name": "SCOTIABANK-DESARROL",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE INSPECTOR CLOUSEAU",
+            "amount": 208480,
+            "balance": 10201350,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T09:13:43+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "09134325",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "771788808",
+                "sender_account": "7108020111",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "ITAU CORPBANCA",
+            "amount": 381372,
+            "balance": 10582722,
+            "channel": null,
+            "type": "inbound",
+            "date": null,
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": null,
+            "document_number": null,
+            "movement_meta": {}
+        },
+        {
+            "description": "TEF DE BATMAN",
+            "amount": 26401,
+            "balance": 10609123,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T15:40:02+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "15400278",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "107277788",
+                "sender_account": "69921666",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE GROOT Y CIA",
+            "amount": 174259,
+            "balance": 10783382,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T16:16:36+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "16163629",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "1770410k",
+                "sender_account": "62031411",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A REY SKYWALKER",
+            "amount": 779991,
+            "balance": 10003391,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-24T15:34:22+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "07094164",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "995242222",
+                "recipient_account": "198515999",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE BATMAN",
+            "amount": 277627,
+            "balance": 10281018,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-25T08:48:14+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "08481412",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "107277788",
+                "sender_account": "69921666",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A ROBIN",
+            "amount": 770000,
+            "balance": 9511018,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-25T11:37:55+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "07007721",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "222411237",
+                "recipient_account": "75600109",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A YODA CHIQUITO",
+            "amount": 500000,
+            "balance": 9011018,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-25T12:20:21+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "07023267",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "16986666",
+                "recipient_account": "3901120",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A YODA CHIQUITO",
+            "amount": 1500000,
+            "balance": 7511018,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-25T10:53:34+00:00",
+            "accountable_date": "2021-03-25T00:00:00+00:00",
+            "id": "07095564",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "16986666",
+                "recipient_account": "102900028",
+                "recipient_bank": "cl_banco_falabella",
+                "recipient_bank_raw_name": "BANCO FALABELLA",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE ANAKIN",
+            "amount": 139407,
+            "balance": 7650425,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-26T14:39:43+00:00",
+            "accountable_date": "2021-03-29T00:00:00+00:00",
+            "id": "14394373",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "764502223",
+                "sender_account": "66666646",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "PAGOS VARIOS RUT 99584000-6",
+            "amount": 594115,
+            "balance": 8244540,
+            "channel": null,
+            "type": "inbound",
+            "date": null,
+            "accountable_date": "2021-03-29T00:00:00+00:00",
+            "id": null,
+            "document_number": null,
+            "movement_meta": {}
+        },
+        {
+            "description": "TEF A BANCO SANTANDER-CHILE",
+            "amount": 22562,
+            "balance": 8221978,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-27T13:25:45+00:00",
+            "accountable_date": "2021-03-29T00:00:00+00:00",
+            "id": "07022701",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "775076444",
+                "recipient_account": "686169555",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE MORPHEUS",
+            "amount": 795482,
+            "balance": 9017460,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-29T16:41:58+00:00",
+            "accountable_date": "2021-03-30T00:00:00+00:00",
+            "id": "16415869",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "969358111",
+                "sender_account": "18660601",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TRANSFERENCIA DESDE BANCO SANTANDER",
+            "amount": 873698,
+            "balance": 9891158,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-30T14:48:46+00:00",
+            "accountable_date": "2021-03-31T00:00:00+00:00",
+            "id": "14484661",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "968833333",
+                "sender_account": "4979761123",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        }
+    ],
+    "balance": {
+        "available": 9891158,
+        "current": 9891158,
+        "limit": 9891158
+    }
+}

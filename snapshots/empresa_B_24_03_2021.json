@@ -1,0 +1,307 @@
+{
+    "institution_id": "cl_banco_estado",
+    "holder_type": "business",
+    "account_number": "1123889702",
+    "username": "191932657",
+    "currency": "clp",
+    "fetched_at": "2021-03-24T12:51:35.676Z",
+    "movements": [
+        {
+            "description": "TEF DE DE RUT 70101717-6",
+            "amount": 195080,
+            "balance": 5185844,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-19T18:41:07+00:00",
+            "accountable_date": "2021-03-22T00:00:00+00:00",
+            "id": "18410759",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "701017176",
+                "sender_account": "21211212",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A MUJER MARAVILLA",
+            "amount": 30000,
+            "balance": 5155844,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-19T19:27:21+00:00",
+            "accountable_date": "2021-03-22T00:00:00+00:00",
+            "id": "07073624",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "155041955",
+                "recipient_account": "155815181",
+                "recipient_bank": "cl_banco_de_chile",
+                "recipient_bank_raw_name": "BANCO DE CHILE",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A BANCO DE CHILE",
+            "amount": 110000,
+            "balance": 5045844,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-20T13:31:10+00:00",
+            "accountable_date": "2021-03-22T00:00:00+00:00",
+            "id": "07094859",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "153339963",
+                "recipient_account": "2972241002",
+                "recipient_bank": "cl_banco_de_chile",
+                "recipient_bank_raw_name": "BANCO DE CHILE",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A PATRICK COLLISON",
+            "amount": 12900,
+            "balance": 5032944,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-20T12:01:50+00:00",
+            "accountable_date": "2021-03-22T00:00:00+00:00",
+            "id": "07035623",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "152988985",
+                "recipient_account": "82512385501",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE EREN JAEGAR",
+            "amount": 349479,
+            "balance": 4990764,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-19T18:00:18+00:00",
+            "accountable_date": "2021-03-22T00:00:00+00:00",
+            "id": "18001878",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "760062333",
+                "sender_account": "411000100",
+                "sender_bank": "cl_banco_scotiabank",
+                "sender_bank_raw_name": "SCOTIABANK-DESARROL",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE DE RUT 70101717-6",
+            "amount": 534501,
+            "balance": 5567445,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T18:10:37+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "18103747",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "701017176",
+                "sender_account": "21211212",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE LIGA DE LA JUSTICIA S.A.",
+            "amount": 766262,
+            "balance": 6333707,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T17:21:59+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "17215910",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "787788788",
+                "sender_account": "47511111",
+                "sender_bank": "cl_banco_security",
+                "sender_bank_raw_name": "BANCO SECURITY",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE DE RUT 73323326-3",
+            "amount": 157266,
+            "balance": 6490973,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T17:28:27+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "17282710",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "733233263",
+                "sender_account": "140000111",
+                "sender_bank": "cl_banco_security",
+                "sender_bank_raw_name": "BANCO SECURITY",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE HOUSE LANNISTER S.A.",
+            "amount": 277974,
+            "balance": 6768947,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T16:53:45+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "16534575",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "763333335",
+                "sender_account": "61959099",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE HOUSE STARK S.A.",
+            "amount": 356155,
+            "balance": 7125102,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-22T14:04:38+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "14043805",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "798248888",
+                "sender_account": "8267029999",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE AVENGERS SPA",
+            "amount": 349479,
+            "balance": 7474581,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-23T13:44:43+00:00",
+            "accountable_date": "2021-03-23T00:00:00+00:00",
+            "id": "13444363",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "788945555",
+                "sender_account": "21131313",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE BATMAN",
+            "amount": 250000,
+            "balance": 7724581,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-23T15:36:51+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "15365100",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "107277788",
+                "sender_account": "69921666",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TRANSFERENCIA DESDE BANCO DE CREDIT",
+            "amount": 208480,
+            "balance": 7933061,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T09:13:43+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "09134325",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "771788808",
+                "sender_account": "7108020111",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BANCO DE CREDITO E",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TRANSFERENCIA DESDE SCOTIABANK-DESA",
+            "amount": 2268289,
+            "balance": 10201350,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-24T08:43:34+00:00",
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": "08433434",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "760062333",
+                "sender_account": "411000100",
+                "sender_bank": "cl_banco_scotiabank",
+                "sender_bank_raw_name": "SCOTIABANK-DESARROL",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "ITAU CORPBANCA",
+            "amount": 381372,
+            "balance": 10582722,
+            "channel": null,
+            "type": "inbound",
+            "date": null,
+            "accountable_date": "2021-03-24T00:00:00+00:00",
+            "id": null,
+            "document_number": null,
+            "movement_meta": {}
+        }
+    ],
+    "balance": {
+        "available": 10582722,
+        "current": 10582722,
+        "limit": 10582722
+    }
+}

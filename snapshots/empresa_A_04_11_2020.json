@@ -1,0 +1,261 @@
+{
+    "account_number": "52336565",
+    "balance": {
+        "available": 22217254,
+        "current": 22217254,
+        "limit": 22217254
+    },
+    "currency": "clp",
+    "fetched_at": "2020-11-04T18:16:29.410Z",
+    "holder_type": "business",
+    "institution_id": "cl_banco_bci",
+    "movements": [
+        {
+            "accountable_date": "2020-11-04T00:00:00.000Z",
+            "amount": 76682,
+            "description": "Pac Tarjeta De Cr\u00e9dito Visa",
+            "document_number": "000000000093",
+            "movement_meta": {},
+            "type": "outbound"
+        },
+        {
+            "accountable_date": "2020-11-04T00:00:00.000Z",
+            "amount": 5000,
+            "description": "Convenio Pago Autom\u00e1tico De Cuentas",
+            "document_number": "000000000926",
+            "movement_meta": {},
+            "type": "outbound"
+        },
+        {
+            "accountable_date": "2020-11-04T00:00:00.000Z",
+            "amount": 187943,
+            "date": "2020-11-03T00:00:00.000Z",
+            "description": "Abono Trf Desde Otro Banco en Linea",
+            "document_number": "000000001117",
+            "id": "90892468",
+            "movement_meta": {
+                "sender_account": "7025599",
+                "sender_bank": "cl_banco_bice",
+                "sender_bank_raw_name": "Banco Bice",
+                "sender_name": "SHIPIT SPA",
+                "sender_rut": "764994493"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-03T00:00:00.000Z",
+            "amount": 153772,
+            "date": "2020-11-03T00:00:00.000Z",
+            "description": "TRANSFERENCIA DE FONDOS AUTOSERVICIO",
+            "document_number": "000976435971",
+            "id": "87522274",
+            "movement_meta": {
+                "sender_account": "76435971",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BCI-TBANC-NOVA",
+                "sender_rut": "762323893"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 1892030,
+            "description": "PAGO DEUDA TARJETA DE CREDITO",
+            "document_number": "000000000125",
+            "movement_meta": {},
+            "type": "outbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 34172,
+            "date": "2020-11-02T00:00:00.000Z",
+            "description": "TRANSFER DE SMART PAYMENT",
+            "document_number": "021205075146",
+            "id": "21205075146",
+            "movement_meta": {
+                "sender_account": "34770974315",
+                "sender_bank": "cl_banco_estado",
+                "sender_bank_raw_name": "Banco Estado",
+                "sender_name": "SMART PAYMENTS SPA",
+                "sender_rut": "764020375"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 68213,
+            "date": "2020-11-02T00:00:00.000Z",
+            "description": "TRANSFER DE M2 TECHNIC SP",
+            "document_number": "203078925631",
+            "id": "203078925631",
+            "movement_meta": {
+                "sender_account": "390001000209549627",
+                "sender_bank": "cl_banco_itau",
+                "sender_bank_raw_name": "ITAU",
+                "sender_name": "M2 TECHNIC SPA",
+                "sender_rut": "763409724"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 109225,
+            "date": "2020-11-02T00:00:00.000Z",
+            "description": "TRANSFER DE NEGOCIOS Y PR",
+            "document_number": "021028028135",
+            "id": "21028028135",
+            "movement_meta": {
+                "sender_account": "55171435535",
+                "sender_bank": "cl_banco_estado",
+                "sender_bank_raw_name": "Banco Estado",
+                "sender_name": "NEGOCIOS Y PROYECTOS CONTRERAS",
+                "sender_rut": "768820252"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 102515,
+            "date": "2020-11-02T00:00:00.000Z",
+            "description": "TRANSFER DE COMACO SERVIC",
+            "document_number": "000573300569",
+            "id": "573300569",
+            "movement_meta": {
+                "sender_account": "67810368",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "Banco Santander",
+                "sender_name": "COMACO SERVICIOS LOGISTICOS SP",
+                "sender_rut": "99587850k"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-11-02T00:00:00.000Z",
+            "amount": 136532,
+            "date": "2020-10-30T00:00:00.000Z",
+            "description": "TRANSFERENCIA DE FONDOS AUTOSERVICIO",
+            "document_number": "000918000681",
+            "id": "87473458",
+            "movement_meta": {
+                "sender_account": "18000681",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BCI-TBANC-NOVA",
+                "sender_rut": "966820608"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 34172,
+            "date": "2020-10-30T00:00:00.000Z",
+            "description": "Abono Por Transf De Fondos Autoservicio",
+            "document_number": "0",
+            "id": "87435816",
+            "movement_meta": {
+                "sender_account": "21398402",
+                "sender_bank": "cl_banco_bci",
+                "sender_bank_raw_name": "BCI-TBANC-NOVA",
+                "sender_rut": "765750342"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 34361,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 42043,
+            "date": "2020-10-29T00:00:00.000Z",
+            "description": "Abono Cuenta BCI",
+            "document_number": "0",
+            "id": "102478073330",
+            "movement_meta": {
+                "sender_account": "51223608",
+                "sender_bank": "cl_banco_de_chile",
+                "sender_bank_raw_name": "Banco de Chile",
+                "sender_name": "Optibrands SpA",
+                "sender_rut": "765435323"
+            },
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 34172,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 34172,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 68343,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 102398,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 136686,
+            "description": "Pago Recibido",
+            "document_number": "0",
+            "movement_meta": {},
+            "type": "inbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 39130,
+            "date": "2020-10-29T00:00:00.000Z",
+            "description": "Cargo Cuenta BCI",
+            "document_number": "0",
+            "id": "87359622",
+            "movement_meta": {
+                "comment": "Boleta de honorarios N8",
+                "recipient_account": "7031420738",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER-SANTIAGO",
+                "recipient_name": "Alejandro Romero",
+                "recipient_rut": "196860061"
+            },
+            "type": "outbound"
+        },
+        {
+            "accountable_date": "2020-10-30T00:00:00.000Z",
+            "amount": 39130,
+            "date": "2020-10-29T00:00:00.000Z",
+            "description": "Cargo Cuenta BCI",
+            "document_number": "0",
+            "id": "87359542",
+            "movement_meta": {
+                "comment": "Boleta de honorarios N4",
+                "recipient_account": "22727346",
+                "recipient_bank": "cl_banco_bice",
+                "recipient_bank_raw_name": "BANCO BICE",
+                "recipient_name": "Ignacio Stephens Manriquez",
+                "recipient_rut": "196365184"
+            },
+            "type": "outbound"
+        }
+    ]
+}

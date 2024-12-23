@@ -1,0 +1,99 @@
+{
+  "institution_id": "cl_banco_estado",
+  "holder_type": "business",
+  "account_number": "882471942",
+  "username": "993223437",
+  "currency": "clp",
+  "fetched_at": "2021-01-12T11:27:42.248Z",
+  "movements": [
+    {
+      "description": "ABONO EXTERNO",
+      "amount": 3000,
+      "balance": 40000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:11:00+00:00",
+      "accountable_date": "2021-01-11T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {}
+    },
+    {
+      "description": "TRANSFERENCIA JOFFREY BARATHEON",
+      "amount": 10000,
+      "balance": 50000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:11:00+00:00",
+      "accountable_date": "2021-01-15T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+        "sender_rut": "5555555555",
+        "sender_account": "555555555555",
+        "sender_bank": "cl_banco_bci",
+        "sender_bank_raw_name": "BANCO BCI",
+        "sender_account_type": "Cuenta Corriente",
+        "comment": null,
+        "code": null
+      }
+    },
+    {
+      "description": "TRANSFERENCIA JOFFREY BARATHEON",
+      "amount": 6000,
+      "balance": 56000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-11T15:17:00+00:00",
+      "accountable_date": "2021-01-11T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+        "sender_rut": "5555555555",
+        "sender_account": "555555555555",
+        "sender_bank": "cl_banco_bci",
+        "sender_bank_raw_name": "BANCO BCI",
+        "sender_account_type": "Cuenta Corriente",
+        "comment": null,
+        "code": null
+      }
+    },
+    {
+      "description": "COBRO MANTECION EXTERNO",
+      "amount": 26000,
+      "balance": 30000,
+      "channel": null,
+      "type": "outbound",
+      "date": "2021-01-12T15:12:00+00:00",
+      "accountable_date": "2021-01-12T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {}
+    },
+    {
+      "description": "TRANSFERENCIA JOFFREY BARATHEON",
+      "amount": 5000,
+      "balance": 35000,
+      "channel": null,
+      "type": "inbound",
+      "date": "2021-01-13T11:17:00+00:00",
+      "accountable_date": "2021-01-13T00:00:00+00:00",
+      "id": null,
+      "document_number": null,
+      "movement_meta": {
+        "sender_rut": "666666666",
+        "sender_account": "66666666666",
+        "sender_bank": "cl_banco_de_chile",
+        "sender_bank_raw_name": "BANCO DE CHILE",
+        "sender_account_type": "Cuenta Corriente",
+        "comment": null,
+        "code": null
+      }
+    }
+  ],
+  "balance": {
+    "available": 35000,
+    "current": 35000,
+    "limit": 35000
+  }
+}

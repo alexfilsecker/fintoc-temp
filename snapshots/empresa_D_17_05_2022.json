@@ -1,0 +1,46 @@
+{
+  "account_number": "4822097",
+  "balance": {
+      "available": 22217254,
+      "current": 22217254,
+      "limit": 22217254
+  },
+  "currency": "clp",
+  "fetched_at": "2022-05-17T18:16:29.123Z",
+  "holder_type": "business",
+  "institution_id": "cl_banco_bci",
+  "movements": [
+    {
+      "accountable_date": "2022-05-14T00:00:00+00:00",
+      "amount": 54000,
+      "description": "Deposito Cheque/Documento BCI N°4298289",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-14T00:00:00+00:00",
+      "amount": 54000,
+      "description": "Deposito Cheque/Documento BCI N°5348972",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-15T00:00:00+00:00",
+      "amount": 99878,
+      "description": "Depósito Cheque BCI-Referencial",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Pago recibido",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "account_number": "4822097",
+  "balance": {
+      "available": 22217254,
+      "current": 22217254,
+      "limit": 22217254
+  },
+  "currency": "clp",
+  "fetched_at": "2022-05-19T18:16:29.123Z",
+  "holder_type": "business",
+  "institution_id": "cl_banco_bci",
+  "movements": [
+    {
+      "accountable_date": "2022-05-15T00:00:00+00:00",
+      "amount": 99878,
+      "description": "Deposito Cheque/Documento BCI N°7948912",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Pago recibido",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Deposito Cheque/Documento BCI N°9043419",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Pago Recibido MISMO BCO PMS 58145090-7",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Abono PNOL 76026828-3 FINTOC SPA",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-17T00:00:00+00:00",
+      "amount": 125000,
+      "description": "Provision",
+      "document_number": "0000000000",
+      "movement_meta": {},
+      "type": "inbound"
+    },
+    {
+      "accountable_date": "2022-05-18T00:00:00+00:00",
+      "amount": 195080,
+      "type": "inbound",
+      "date": "2022-05-18T18:41:07+00:00",
+      "description": "Abono Trf Desde Otro Banco en Linea",
+      "id": "18410759",
+      "document_number": null,
+      "movement_meta": {
+          "sender_rut": "701017176",
+          "sender_account": "21211212",
+          "sender_bank": "cl_banco_bci",
+          "sender_name": "FINTOC SPA"
+      }
+    },
+    {
+      "accountable_date": "2022-05-18T00:00:00+00:00",
+      "amount": 34172,
+      "date": "2022-05-18T00:00:00+00:00",
+      "description": "Abono Trf Desde Otro Banco en Linea",
+      "document_number": "000000001117",
+      "id": "48410639",
+      "movement_meta": {
+          "sender_rut": "761477013",
+          "sender_account": "4190382005",
+          "sender_bank": "cl_banco_de_chile",
+          "sender_name": "SOLUCIONES EN MINERIA Y ENERGI"
+
+      },
+      "type": "inbound"
+    }
+  ]
+}

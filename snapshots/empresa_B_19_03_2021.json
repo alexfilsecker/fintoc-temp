@@ -1,0 +1,399 @@
+{
+    "institution_id": "cl_banco_estado",
+    "holder_type": "business",
+    "account_number": "1123889702",
+    "username": "191932657",
+    "currency": "clp",
+    "fetched_at": "2021-03-19T11:27:42.248Z",
+    "movements": [
+        {
+            "description": "TEF DE BRIAN CHESKY",
+            "amount": 269828,
+            "balance": 3533917,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-08T14:06:55+00:00",
+            "accountable_date": "2021-03-09T00:00:00+00:00",
+            "id": "14065530",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "768885525",
+                "sender_account": "64144434",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE AIRBNB SPA",
+            "amount": 180684,
+            "balance": 3714601,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-09T11:34:49+00:00",
+            "accountable_date": "2021-03-09T00:00:00+00:00",
+            "id": "11344938",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "766266631",
+                "sender_account": "719666812",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE STRIPE",
+            "amount": 104240,
+            "balance": 3818841,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-10T12:52:07+00:00",
+            "accountable_date": "2021-03-10T00:00:00+00:00",
+            "id": "12520720",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "760791883",
+                "sender_account": "23101131405",
+                "sender_bank": "cl_banco_de_chile",
+                "sender_bank_raw_name": "BANCO DE CHILE",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A YODA CHIQUITO",
+            "amount": 1700000,
+            "balance": 2118841,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-10T12:35:04+00:00",
+            "accountable_date": "2021-03-10T00:00:00+00:00",
+            "id": "07039539",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "16986666",
+                "recipient_account": "102900028",
+                "recipient_bank": "cl_banco_falabella",
+                "recipient_bank_raw_name": "BANCO FALABELLA",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE PERRITO DE LIPIGAS",
+            "amount": 276746,
+            "balance": 2395587,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-12T20:34:01+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "20340143",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "761856604",
+                "sender_account": "2710619101",
+                "sender_bank": "cl_banco_de_chile",
+                "sender_bank_raw_name": "BANCO DE CHILE",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A ALEXANDER HAMILTON",
+            "amount": 150000,
+            "balance": 2245587,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-12T15:08:36+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "07064071",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "159579670",
+                "recipient_account": "34970371313",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE TERCERO",
+            "amount": 204393,
+            "balance": 2449980,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-13T21:47:33+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "21473378",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "772463502",
+                "sender_account": "2700094010",
+                "sender_bank": "cl_banco_de_chile",
+                "sender_bank_raw_name": "BANCO DE CHILE",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE TERCERO",
+            "amount": 350388,
+            "balance": 2800368,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-13T00:06:08+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "00060893",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "768046603",
+                "sender_account": "72639316",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE SERGEI KOROLEV",
+            "amount": 830242,
+            "balance": 3630610,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-15T12:31:18+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "12311877",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "969499706",
+                "sender_account": "62372813",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A HAN SOLO",
+            "amount": 16000,
+            "balance": 3614610,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-15T12:08:22+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "07056359",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "770293376",
+                "recipient_account": "976592147",
+                "recipient_bank": "cl_banco_scotiabank",
+                "recipient_bank_raw_name": "SCOTIABANK-DESARROL",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A JON SNOW",
+            "amount": 150000,
+            "balance": 3464610,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-15T10:56:31+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "07060457",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "176333722",
+                "recipient_account": "79223780",
+                "recipient_bank": "cl_banco_santander",
+                "recipient_bank_raw_name": "BANCO SANTANDER",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A MARTY MCFLY",
+            "amount": 150000,
+            "balance": 3314610,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-15T10:55:51+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "07058817",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "222411117",
+                "recipient_account": "72110254053",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A PATRICK COLLISON",
+            "amount": 150000,
+            "balance": 3164610,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-15T10:56:09+00:00",
+            "accountable_date": "2021-03-15T00:00:00+00:00",
+            "id": "07059593",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "152988985",
+                "recipient_account": "82512385501",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF DE KERMIT",
+            "amount": 1459366,
+            "balance": 4623976,
+            "channel": null,
+            "type": "inbound",
+            "date": "2021-03-16T12:28:31+00:00",
+            "accountable_date": "2021-03-16T00:00:00+00:00",
+            "id": "12283171",
+            "document_number": null,
+            "movement_meta": {
+                "sender_rut": "968333333",
+                "sender_account": "4999761123",
+                "sender_bank": "cl_banco_santander",
+                "sender_bank_raw_name": "BANCO SANTANDER",
+                "sender_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "BANCO DE CREDITO E INVERSIONES",
+            "amount": 297085,
+            "balance": 4921061,
+            "channel": null,
+            "type": "inbound",
+            "date": null,
+            "accountable_date": "2021-03-17T00:00:00+00:00",
+            "id": null,
+            "document_number": null,
+            "movement_meta": {}
+        },
+        {
+            "description": "TEF A RUT 76849668-3",
+            "amount": 69509,
+            "balance": 4851552,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-17T09:28:59+00:00",
+            "accountable_date": "2021-03-17T00:00:00+00:00",
+            "id": "07086173",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "768496683",
+                "recipient_account": "1255585504",
+                "recipient_bank": "cl_banco_de_chile",
+                "recipient_bank_raw_name": "BANCO DE CHILE",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF A YODA CHIQUITO",
+            "amount": 600000,
+            "balance": 4251552,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-17T09:34:08+00:00",
+            "accountable_date": "2021-03-17T00:00:00+00:00",
+            "id": "07095057",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "16986666",
+                "recipient_account": "102900028",
+                "recipient_bank": "cl_banco_falabella",
+                "recipient_bank_raw_name": "BANCO FALABELLA",
+                "recipient_account_type": "Cuenta Corriente",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A GANDALF",
+            "amount": 558000,
+            "balance": 3693552,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-17T12:36:39+00:00",
+            "accountable_date": "2021-03-17T00:00:00+00:00",
+            "id": "07036578",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "767655763",
+                "recipient_account": "855113703",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "TEF BANCOESTADO A ELLEN RIPLEY",
+            "amount": 110000,
+            "balance": 3583552,
+            "channel": null,
+            "type": "outbound",
+            "date": "2021-03-17T09:22:39+00:00",
+            "accountable_date": "2021-03-17T00:00:00+00:00",
+            "id": "07075652",
+            "document_number": null,
+            "movement_meta": {
+                "recipient_rut": "114119486",
+                "recipient_account": "171111097",
+                "recipient_bank": "cl_banco_estado",
+                "recipient_bank_raw_name": "BANCOESTADO",
+                "recipient_account_type": "Chequera Electr",
+                "comment": null,
+                "code": null
+            }
+        },
+        {
+            "description": "OTROS ABONOS",
+            "amount": 592125,
+            "balance": 4175677,
+            "channel": null,
+            "type": "inbound",
+            "date": null,
+            "accountable_date": "2021-03-19T00:00:00+00:00",
+            "id": null,
+            "document_number": null,
+            "movement_meta": {}
+        }
+    ],
+    "balance": {
+        "available": 4175677,
+        "current": 4175677,
+        "limit": 4175677
+    }
+}
