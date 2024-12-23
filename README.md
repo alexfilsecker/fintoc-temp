@@ -23,5 +23,4 @@ My solution can be described in the following steps:
 4. If that id is already in `snapshot_keys`, we add a `"+"` to the end of it until it is unique again. This ensures that all movements in a snapshot are valid.
 5. Now add or update the movement.
 
-Additionally, I must say that I have considered the newest movement description to be the one stored, so movements that have already been added will be changing if the description changes from one snapshot to another.
-
+Additionally, I must say that I have considered the newest movement description to be the one that should be stored.
