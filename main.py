@@ -1,35 +1,18 @@
-import json
-import os
-from typing import List, Dict, Any, Set, Tuple, Generator
-from datetime import datetime
+from utils import get_companies_snapshots, get_snapshots, get_snapshot_data
+from bank_statement import BankStatement
 
-
-SNAPSHOTS_PATH = "drive/MyDrive/snapshots/"
 OUTPUT_PATH = "results_movements"
 
-def get_snapshots() -> List[str]:
-  """Returns a list of all snapshot paths"""
-  return os.listdir(SNAPSHOTS_PATH)
+snapshots = get_snapshots()
+companies_snapshots = get_companies_snapshots(snapshots)
 
-def get_companies_snapshots(snapshots: List[str]) -> Dict[str, List[str]]:
-  """Returns a dictionary of companies and their snapshots paths"""
-  companies = {}
-  for snapshot in snapshots:
-    if snapshot.split(".")[-1] != "json":
-      continue
+for company, company_snapshots in companies_snapshots.items():
+  bank_statement = BankStatement(company)
+  for snapshot in company_snapshots:
+    snapshot_data = get_snapshot_data(snapshot)
+    bank_statement.update(snapshot_data)
 
-    company = snapshot.split("_")[1]
-
-    if company not in companies:
-      companies[company] = []
-
-    companies[company].append(snapshot)
-
-  return companies
-
-def get_snapshot_data(snapshot_path):
-  """Loads the snapshot json data into a dictionary and returns it"""
-  with open(SNAPSHOTS_PATH + snapshot_path) as json_file:
-    data = json.load(json_file)
-
-  return data
+  print(f"empresa {company}")
+  bank_statement.show_movements()
+  bank_statement.export_movements(OUTPUT_PATH)
+  print()

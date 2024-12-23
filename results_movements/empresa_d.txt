@@ -1,0 +1,11 @@
+Numero de movimientos: 10
+14-05-2022 | 54000 | Deposito Cheque/Documento BCI N°4298289
+14-05-2022 | 54000 | Deposito Cheque/Documento BCI N°5348972
+15-05-2022 | 99878 | Deposito Cheque/Documento BCI N°7948912
+17-05-2022 | 125000 | Pago recibido
+17-05-2022 | 125000 | Deposito Cheque/Documento BCI N°9043419
+17-05-2022 | 125000 | Pago Recibido MISMO BCO PMS 58145090-7
+17-05-2022 | 125000 | Abono PNOL 76026828-3 FINTOC SPA
+17-05-2022 | 125000 | Provision
+18-05-2022 | 34172 | Abono Trf Desde Otro Banco en Linea
+18-05-2022 | 195080 | Abono Trf Desde Otro Banco en Linea

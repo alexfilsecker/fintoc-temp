@@ -1,0 +1,77 @@
+Numero de movimientos: 76
+30-10-2020 | -39130 | Cargo Cuenta BCI
+30-10-2020 | -39130 | Cargo Cuenta BCI
+30-10-2020 | 34172 | Abono Por Transf De Fondos Autoservicio
+30-10-2020 | 34172 | Pago Recibido
+30-10-2020 | 34172 | Pago Recibido
+30-10-2020 | 34361 | Pago Recibido
+30-10-2020 | 42043 | Abono Cuenta BCI
+30-10-2020 | 68343 | Pago Recibido
+30-10-2020 | 102398 | Pago Recibido
+30-10-2020 | 136686 | Pago Recibido
+02-11-2020 | -1892030 | PAGO DEUDA TARJETA DE CREDITO
+02-11-2020 | 34172 | TRANSFER DE SMART PAYMENT
+02-11-2020 | 68213 | TRANSFER DE M2 TECHNIC SP
+02-11-2020 | 102515 | TRANSFER DE COMACO SERVIC
+02-11-2020 | 109225 | TRANSFER DE NEGOCIOS Y PR
+02-11-2020 | 136532 | TRANSFERENCIA DE FONDOS AUTOSERVICIO
+03-11-2020 | 153772 | TRANSFERENCIA DE FONDOS AUTOSERVICIO
+04-11-2020 | -76682 | Pac Tarjeta De Crédito Visa
+04-11-2020 | -5000 | Convenio Pago Automático De Cuentas
+04-11-2020 | 187943 | Abono Trf Desde Otro Banco en Linea
+05-11-2020 | 34172 | TRANSFER DE SOLUCIONES EN
+05-11-2020 | 68266 | TRANSFER DE NOVUS CHILE L
+05-11-2020 | 136686 | Deposito Cheque/Documento Otros Bancos
+05-11-2020 | 136686 | Deposito Cheque/Documento Otros Bancos
+05-11-2020 | 136686 | Abono PNOL 76026828-3 LATE SPA
+06-11-2020 | -1998169 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -1602446 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -952777 | CARGO POR TRANSF DE FONDOS AUTOSERVICIO
+06-11-2020 | -929381 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -864158 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -816229 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -806720 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -441364 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -350000 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -350000 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -300000 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | -206998 | Traspaso de Fondos a Otro Banco en Linea
+06-11-2020 | 17175 | Abono Trf Desde Otro Banco en Linea
+06-11-2020 | 34172 | Abono Trf Desde Otro Banco en Linea
+06-11-2020 | 34351 | TRANSFER DE ASESORIAS Y G
+06-11-2020 | 34351 | TRANSFER DE P K  MENDIES
+06-11-2020 | 54675 | TRANSFER DE AUDITORES CON
+06-11-2020 | 68343 | Abono PNOL
+06-11-2020 | 68343 | Pago Recibido
+06-11-2020 | 68343 | Pago Recibido MISMO BCO PMS 077078150-7
+06-11-2020 | 68702 | Abono Trf Desde Otro Banco en Linea
+06-11-2020 | 102515 | Pago Recibido
+06-11-2020 | 102515 | Pago Recibido MISMO BCO PMS 077101893-9
+06-11-2020 | 120229 | Abono Por Transf De Fondos Autoservicio
+06-11-2020 | 410057 | Pago Recibido
+06-11-2020 | 410057 | Pago Recibido MISMO BCO PMS 070771500-6
+09-11-2020 | -1011533 | Traspaso de Fondos a Otro Banco en Linea
+09-11-2020 | -140000 | Traspaso de Fondos a Otro Banco en Linea
+09-11-2020 | -75000 | Traspaso de Fondos a Otro Banco en Linea
+09-11-2020 | -75000 | Traspaso de Fondos a Otro Banco en Linea
+09-11-2020 | 27286 | Abono PNOL
+09-11-2020 | 27307 | Abono PNOL
+09-11-2020 | 28500 | Deposito Cheque/Documento Otros Bancos
+09-11-2020 | 34172 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34172 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34172 | Abono PNOL
+09-11-2020 | 34172 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34351 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34351 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34351 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34351 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34351 | Abono Por Transf De Fondos Autoservicio
+09-11-2020 | 34351 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 34358 | Abono Por Transf De Fondos Autoservicio
+09-11-2020 | 68702 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 68702 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 68702 | Abono Por Transf De Fondos Autoservicio
+09-11-2020 | 137405 | Abono Por Transf De Fondos Autoservicio
+09-11-2020 | 170858 | Abono Por Transf De Fondos Autoservicio
+09-11-2020 | 239201 | Abono Trf Desde Otro Banco en Linea
+09-11-2020 | 342473 | Abono Trf Desde Otro Banco en Linea
